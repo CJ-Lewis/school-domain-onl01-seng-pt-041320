@@ -8,5 +8,6 @@ class School
   
   def add_student(student, level)
     roster[level]  ||= []
+    roster[level]
   end
 end
