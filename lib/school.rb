@@ -12,4 +12,5 @@ class School
   end
   
   def grade(level)
+    roster.
 end
